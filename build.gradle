@@ -25,7 +25,7 @@ apply plugin: 'com.palantir.docker'
 group = 'correadaniel3'
 
 jar {
-    baseName = 'gs-spring-boot-docker'
+    baseName = 'test_ci'
     version =  '0.1.0'
 }
 
